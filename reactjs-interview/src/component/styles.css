@@ -1,0 +1,7 @@
+.employeeDetail{
+    display:flex;
+    padding:10px;
+}
+.employeeDetail span{
+    padding:10px;
+}
